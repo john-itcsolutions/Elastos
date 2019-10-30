@@ -10,7 +10,7 @@ The addition of our 320 Use Cases to the Kitchen Sink 'Conference' App, and conn
 
 Also note that at this stage in the development of the Elastos Trinity Developer's System there is expected to be breakage of existing Dapps due to Elastos updates, as new releases will not be required to be backwards compatible intil March 2020.
 
-I have set up this Dapp as an Angular.js application with the intention of using the rich set of web components available via Sencha and their Ext.js Packages.
+I have set up this Dapp as an Angular.js application with the intention of eventually using the rich set of web components available via Sencha and their Ext.js Packages.
 
 ## Introduction
 
