@@ -4,7 +4,7 @@ Elastos Trinity
 |:-:|:-:|
 |[![Build Status](https://travis-ci.com/elastos/Elastos.Trinity.svg)](https://travis-ci.com/elastos/Elastos.Trinity)|[![Build status](https://ci.appveyor.com/api/projects/status/hjyv761on883jors?svg=true)](https://ci.appveyor.com/project/Elastos/elastos-trinity)|
 
-NOT FROM JOHN OLSEN:  I HAVE CLONED THE MAIN ELASTOS.TRINITY SHELL AND FILLED IT WITH OTHER CLONED ELASTOS.TRINITY SECTIONS TO COMPLETE THE SKELETON TRINITY PACKAGE.  I HAVE THEN CREATED A 'KITCHEN SINK' APP CALLED CHUBBA MORRIS WHICH DOES RUN.  IT IS ACTUALLY A 'CONFERENCE' APP AS IT STANDS.  YOU CAN CLONE THIS REPO IN A MACOSX MACHINE AND ENTER Dapps/ChubbaMorris AND RUN "ionic/server" TO SEE THE RESULT.  you must install cordova and ionic on your machine.
+NOTE FROM JOHN OLSEN:  I HAVE CLONED THE MAIN ELASTOS.TRINITY SHELL AND FILLED IT WITH OTHER CLONED ELASTOS.TRINITY SECTIONS TO COMPLETE THE SKELETON TRINITY PACKAGE.  I HAVE THEN CREATED A 'KITCHEN SINK' APP CALLED CHUBBA MORRIS WHICH DOES RUN.  IT IS ACTUALLY A 'CONFERENCE' APP AS IT STANDS.  YOU CAN CLONE THIS REPO IN A MACOSX MACHINE AND ENTER Dapps/ChubbaMorris AND RUN "ionic/server" TO SEE THE RESULT.  you must install cordova and ionic on your machine.
 
 
 
