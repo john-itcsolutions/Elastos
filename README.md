@@ -6,6 +6,8 @@ Elastos Trinity
 
 NOTE FROM JOHN OLSEN:  I HAVE CLONED THE MAIN Elastos.Trinity SHELL AND FILLED IT WITH OTHER CLONED Elastos.Trinity SECTIONS TO COMPLETE THE SKELETON TRINITY PACKAGE (FROM github.com/elastos/Elastos.Trinity et al).  I HAVE THEN CREATED A 'KITCHEN SINK' IONIC APP CALLED ChubbaMorris WHICH DOES RUN.  IT IS ACTUALLY A 'Conference' APP AS IT STANDS.  YOU CAN CLONE MY REPO, TO A MACOSX MACHINE, AND ENTER Dapps/Ionic/ChubbaMorris AND RUN "ionic/serve" TO SEE THE RESULT.  you must install cordova and ionic on your machine first.
 
+The addition of my 320 Use Cases and connections to the Elastos Blockchain and Carrier Systems, as well as connecting to the Postgres database, are as yet unmapped territory for me.
+
 
 
 ## Introduction
