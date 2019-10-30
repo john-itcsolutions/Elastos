@@ -6,7 +6,7 @@ Elastos Trinity
 
 NOTE FROM JOHN OLSEN:  I HAVE CLONED THE MAIN Elastos.Trinity SHELL AND FILLED IT WITH OTHER CLONED Elastos.Trinity SECTIONS TO COMPLETE THE SKELETON TRINITY PACKAGE (FROM github.com/elastos/Elastos.Trinity et al).  I HAVE THEN CREATED A 'KITCHEN SINK' IONIC APP CALLED ChubbaMorris WHICH DOES RUN.  IT IS ACTUALLY A 'Conference' APP AS IT STANDS.  YOU CAN CLONE MY REPO, TO A MACOSX MACHINE, AND ENTER Dapps/Ionic/ChubbaMorris AND RUN "ionic/serve" TO SEE THE RESULT.  You must install Cordova and Ionic on your machine first.
 
-The addition of our 320 Use Cases to the Kitchen Sink Conference App, and connections to the Elastos Blockchain and Carrier Systems, as well as connecting to the Postgres database, are as yet unmapped territory for me. Non-Relational Data (ie in file format) will be stored on Hive (the IFS distributed file storage system).  The connection to Hive is via Carrier.  I think (but am not certain yet) that also the Postgres Database Connection is via Carrier.  I am also hoping to be able to connect via Carrier to external Websites (eg Banks). 
+The addition of our 320 Use Cases to the Kitchen Sink Conference App, and connections to the Elastos Blockchain and Carrier Systems, as well as connecting to the Postgres database, are as yet unmapped territory for me. Non-Relational Data (ie in file format) will be stored on Hive (the IFS distributed file storage system).  The connection to Hive is via Carrier.  I think (but am not certain yet) that also the Postgres Database Connection is via Carrier from the Ionic App to the GO Rest API server.  I am also hoping to be able to connect via Carrier to external Websites (eg Banks). 
 
 
 
