@@ -8,6 +8,8 @@ NOTE FROM JOHN OLSEN:  I HAVE CLONED THE MAIN Elastos.Trinity SHELL AND FILLED I
 
 The addition of our 320 Use Cases to the Kitchen Sink Conference App, and connections to the Elastos Blockchain and Carrier Systems, as well as connecting to the Postgres database, are as yet unmapped territory for me. Non-Relational Data (ie in file format) will be stored on Hive (the IFS distributed file storage system).  The connection to Hive is via Carrier.  I think (but am not certain yet) that also the Postgres Database Connection is via Carrier from the Ionic App to the GO Rest API server.  I am also hoping to be able to connect via Carrier to external Websites (eg Banks). 
 
+Also note that at this stage in the development of the Elastos Trinity Developer's System there is expected to be breakage of packages in Elastos updates, as new releases will not be required to be backwards compatible intil March 2020.
+
 
 
 ## Introduction
