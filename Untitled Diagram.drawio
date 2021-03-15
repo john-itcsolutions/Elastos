@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T19:22:01.524Z" agent="5.0 (Macintosh)" etag="c4YdUeBWXj4bZfLU1ERq" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T22:18:41.251Z" agent="5.0 (Macintosh)" etag="ucDx7eBNI2jF5YUL_UzB" version="14.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="749" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
             <mxPoint x="219.58" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-68" value="&lt;div&gt;Output :&lt;/div&gt;&lt;div&gt;Initial Duty&lt;br&gt;&lt;/div&gt;&lt;div&gt;Discount&lt;/div&gt;&lt;div&gt;Final Duty&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-68" value="&lt;div&gt;Output :Category&lt;/div&gt;&lt;div&gt;Initial Duty&lt;br&gt;&lt;/div&gt;&lt;div&gt;Discount&lt;/div&gt;&lt;div&gt;Final Duty&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="980" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-69" value="Input: Rerun?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
