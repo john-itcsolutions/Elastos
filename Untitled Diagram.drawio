@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T02:39:22.187Z" agent="5.0 (Macintosh)" etag="7dmvg1iW5hXT-D9gIOfa" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T03:08:26.318Z" agent="5.0 (Macintosh)" etag="xWAKmL7fvNiZLjsH0VIH" version="14.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1851" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;div&gt;Eng Cap &amp;lt;=&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;1600cc" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;div&gt;Eng Cap &amp;lt;=&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;CAT_A_LIMIT" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="145" y="340" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Category A&lt;br&gt;&lt;div&gt;Calc Duty = Mkt*CatA%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -21,7 +21,7 @@
             <mxPoint x="220" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-3" value="&lt;div&gt;Eng Cap &amp;gt; 1600cc&lt;/div&gt;&lt;div&gt;&amp;lt;= 2000cc&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-3" value="&lt;div&gt;CAT_A_LIMIT&amp;lt;Eng Cap&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;= CAT_B_LIMIT&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="500" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-7" value="reRun == yes?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -102,7 +102,7 @@
             <mxPoint x="450" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-41" value="Eng Cap &amp;gt; 2000cc" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-41" value="Eng Cap &amp;gt; CAT_B_LIMIT" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="670" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-43" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X3IV7Rgy-GoR1txGhQ9Q-41" edge="1">
@@ -662,8 +662,8 @@
             <mxPoint x="320" y="23" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fX3GfrZOgOiHbIc_7Qqg-110" value="&lt;div&gt;CAT_A_RATE=25%&lt;/div&gt;&lt;div&gt;CAT_B_RATE=50%&lt;/div&gt;&lt;div&gt;CAT_C_RATE=75%&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="-5" width="120" height="60" as="geometry" />
+        <mxCell id="fX3GfrZOgOiHbIc_7Qqg-110" value="&lt;div&gt;CAT_A_RATE=25%&lt;/div&gt;&lt;div&gt;CAT_B_RATE=50%&lt;/div&gt;&lt;div&gt;CAT_C_RATE=75%&lt;br&gt;&lt;/div&gt;&lt;div&gt;CAT_A_LIMIT=1600&lt;/div&gt;&lt;div&gt;CAT_B_LIMIT=2000&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="-20" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="fX3GfrZOgOiHbIc_7Qqg-112" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
