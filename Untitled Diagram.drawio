@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T13:31:47.358Z" agent="5.0 (Macintosh)" etag="8t7n2sYAlf7koBWnVENy" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T15:04:14.572Z" agent="5.0 (Macintosh)" etag="ssTVh42StvCACUjw6lZ1" version="14.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1851" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -421,7 +421,7 @@
             <mxPoint x="160" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fX3GfrZOgOiHbIc_7Qqg-52" value="Eng_Cap &amp;gt;= 49.0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fX3GfrZOgOiHbIc_7Qqg-52" value="Eng_Cap &amp;gt;= 25.0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fX3GfrZOgOiHbIc_7Qqg-53" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X3IV7Rgy-GoR1txGhQ9Q-13" target="fX3GfrZOgOiHbIc_7Qqg-52">
@@ -639,7 +639,7 @@
             <mxPoint x="450" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fX3GfrZOgOiHbIc_7Qqg-114" value="&lt;div&gt;MIN_ENG_CAP=49.0&lt;/div&gt;&lt;div&gt;MIN_MFG_YR=1885&lt;/div&gt;&lt;div&gt;MIN_MKT_PRICE=50.0&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;line number5 index4 alt2&quot;&gt;&lt;code class=&quot;plain&quot;&gt;todays_date &lt;/code&gt;&lt;code class=&quot;keyword&quot;&gt;=&lt;/code&gt; &lt;code class=&quot;plain&quot;&gt;date.today() &lt;/code&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;THIS_YR =&lt;code class=&quot;plain&quot;&gt;&lt;br&gt;&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code class=&quot;plain&quot;&gt;todays_date.year&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fX3GfrZOgOiHbIc_7Qqg-114" value="&lt;div&gt;MIN_ENG_CAP=25.0&lt;/div&gt;&lt;div&gt;MIN_MFG_YR=1885&lt;/div&gt;&lt;div&gt;MIN_MKT_PRICE=50.0&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;line number5 index4 alt2&quot;&gt;&lt;code class=&quot;plain&quot;&gt;todays_date &lt;/code&gt;&lt;code class=&quot;keyword&quot;&gt;=&lt;/code&gt; &lt;code class=&quot;plain&quot;&gt;date.today() &lt;/code&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;THIS_YR =&lt;code class=&quot;plain&quot;&gt;&lt;br&gt;&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code class=&quot;plain&quot;&gt;todays_date.year&lt;/code&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="-30" width="127.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fX3GfrZOgOiHbIc_7Qqg-117" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fX3GfrZOgOiHbIc_7Qqg-100">
