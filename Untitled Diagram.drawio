@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T11:39:55.558Z" agent="5.0 (Macintosh)" etag="O6vvyzigdTCBwha83LwD" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T12:05:09.240Z" agent="5.0 (Macintosh)" etag="3SSoXn2OOtT2Nv8h4PEY" version="14.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1851" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -212,13 +212,13 @@
             <mxPoint x="475" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-78" value="Disc%=(This_Yr-Mfg_Yr)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="800" width="100" height="40" as="geometry" />
+        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-78" value="&lt;div&gt;Disc%=&lt;/div&gt;&lt;div&gt;float(This_Yr - Mfg_Yr)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="790" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-79" value="Disc%=10" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-79" value="Disc%=float(10)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="890" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-80" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Initial_Duty = Mkt * &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cat_RATES[category]&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Final_Duty = Initial_Duty*(1 - .01*Disc%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-80" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Initial_Duty = Mkt * &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cat_RATES[category]&lt;/div&gt;&lt;div&gt;Discount=Disc%*.01*&lt;/div&gt;&lt;div&gt;Initial_Duty&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Final_Duty = Initial_Duty - Discount&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="125" y="800" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="X3IV7Rgy-GoR1txGhQ9Q-81" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X3IV7Rgy-GoR1txGhQ9Q-79" edge="1">
